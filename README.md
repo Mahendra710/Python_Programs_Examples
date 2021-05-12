@@ -8,43 +8,43 @@ Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples
 ## 2-Prime Number :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/2-Prime%20Number.py)
 
-## :-
+## 3-Palindromic Prime Number :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/2.1-Palindromic%20Prime%20Number.py)
 
-## :-
+## 4-Perfect Square :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/3-Perfect%20Square.py)
 
-## :-
+## 5-Perfect Number :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/3.1-Perfect%20Number.py)
 
-## :-
+## 6-Swapping :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/4-Swapping.py)
 
-## :-
+## 7-Fibonacci Series :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/5-Fibonacci%20Series.py)
 
-## :-
+## 8-Check for Fibonacci Number :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/5.1-Check%20For%20Fibonacci%20Number.py)
 
-## :-
+## 9-Factorial :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/6-Factorial.py)
 
-## :-
+## 10-Alphabet Triangle :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/9-Alphabet%20Triangle.py)
 
-## :-
+## 11-Odd Even Triangle :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/10-Odd%20Even%20Triangle.py)
 
-## :-
+## 12-Printing String in Right Triangle :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/12-Printing%20String%20in%20Right%20Triangle.py)
 
-## :-
+## 13-Reverse the String :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/13-Reverse%20the%20String.py)
 
-## :-
+## 14-GCD of Two Numbers :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/14-GCD%20Of%20two%20Number.py)
 
-## :-
+## 15-Sum of Digits:-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/15-Sum%20of%20digits.py)
 
 ## :-
