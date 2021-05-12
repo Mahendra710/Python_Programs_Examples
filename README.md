@@ -30,12 +30,31 @@ Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/6-Factorial.py)
 
 ## 10-Alphabet Triangle :-
+    A 
+    A B 
+    A B C 
+    A B C D 
+    A B C D E 
+
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/9-Alphabet%20Triangle.py)
 
 ## 11-Odd Even Triangle :-
+    1 
+    0 1 
+    1 0 1 
+    0 1 0 1 
+    1 0 1 0 1 
+
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/10-Odd%20Even%20Triangle.py)
 
 ## 12-Printing String in Right Triangle :-
+    P 
+    Y Y 
+    T T T 
+    H H H H 
+    O O O O O 
+    N N N N N N 
+
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/12-Printing%20String%20in%20Right%20Triangle.py)
 
 ## 13-Reverse the String :-
@@ -59,7 +78,7 @@ Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples
 ## 19-Maximum Value In Nested List :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/19-Maximum%20value%20in%20Nested%20List.py)
 
-## 20-Leap Number :-
+## 20-Leap  Year :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/20-Leap%20Number.py)
 
 ## 21-Valid Date :-
@@ -101,7 +120,7 @@ Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples
 ## 33-Factor of Number :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/29-Factor%20of%20Number.py)
 
-## 34-Power of 2 (Bitwise Shift Operator) :-
+## 34-Check Power of 2 (Bitwise Shift Operator) :-
 Click For: [Source Code](https://github.com/Mahendra710/Python_Programs_Examples/blob/main/30-Check%20Power%20of%202%20(Bitwise%20Shift%20Operator).py)
 
 ## 35-SubString Of String :-
